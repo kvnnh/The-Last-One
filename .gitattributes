@@ -7,3 +7,4 @@
 *.fx linguist-language=ignore
 *.html linguist-language=ignore
 *.html linguist-generated=true  
+*.html linguist-detectable=false
