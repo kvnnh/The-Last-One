@@ -5,3 +5,4 @@
 *.cginc linguist-language=ignore
 *.compute linguist-language=ignore
 *.fx linguist-language=ignore
+*.html linguist-language=ignore
